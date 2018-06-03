@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cf14a352b1c35244682b7ea2be0f7e19
+timeCreated: 1495876364
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - zid: {fileID: 1591936082651870, guid: 11dded9f9b296af468d01138c6ffe04b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
